@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521101458 source:c:\users\emmanuel\desktop\new folder\new folder\2cpp-project-minesweeper-224220\main.cpp
+	<iostream>
+	<cstdlib>
+
