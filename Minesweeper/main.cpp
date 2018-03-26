@@ -7,10 +7,6 @@ int hidden(){
 cout << " ";
 }
 
-
-//Present in project
-class box;
-
 int board(){
     int r,c;
     cout<<"How many rows?: ";
